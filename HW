@@ -1,0 +1,19 @@
+# Member 1
+dob1 = input("Enter birthdate OF FATHER: ")
+print("Stored:", dob1)
+
+# Member 2
+dob2 = input("Enter birthdate OF MOTHER: ")
+print("Stored:", dob2)
+
+# Member 3
+dob3 = input("Enter birthdate OF GRANDFATHER: ")
+print("Stored:", dob3)
+
+# Member 4
+dob4 = input("Enter birthdate OF GRANDMOTHER: ")
+print("Stored:", dob4)
+
+# Member 5
+dob5 = input("Enter birthdate OF GREAT GRANDMOTHER : ")
+print("Stored:", dob5)
